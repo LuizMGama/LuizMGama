@@ -62,6 +62,13 @@ Currently, I am:
 
 ---
 
+## 🎓 Certifications  
+
+<p align="center">
+  <img src="https://github.com/LuizMGama/certificates/raw/main/Cientista_de_dados_aspirante.png" width="400">
+  <img src="https://github.com/LuizMGama/certificates/raw/main/SQL.png" width="400">
+</p>
+
 ## 📫 Let's Connect!  
 💡 If you're interested in discussing projects, collaborations, or job opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-gama-13197815b) or [email](mailto:le.gama.neto@gmail.com).  
 

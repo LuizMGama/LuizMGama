@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Luiz Eduardo Gama!
 
 🎯 **Aspiring Data Scientist | Former Journalist | Tech Enthusiast**  
-📍 Itapetininga, São Paulo, Brazil / Rio de Janeiro, RJ, Brazil
-
+📍 Itapetininga, São Paulo, Brazil / Rio de Janeiro, RJ, Brazil 
 📩 Contact: [le.gama.neto@gmail.com](mailto:le.gama.neto@gmail.com)  
 🔗 Portfolio: [My Website](https://legamaneto.wixsite.com/portfolio)  
 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/luiz-eduardo-gama-13197815b)  

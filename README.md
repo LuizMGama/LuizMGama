@@ -68,6 +68,11 @@ Currently, I am:
 <p align="center">
   <img src="https://github.com/LuizMGama/certificates/raw/main/Cientista_de_dados_aspirante.png" width="400">
   <img src="https://github.com/LuizMGama/certificates/raw/main/SQL.png" width="400">
+  <img src="https://github.com/LuizMGama/certificates/raw/main/mestre_do_aprendizado_de_maquina.png" width="400">
+  <img src="https://github.com/LuizMGama/certificates/raw/main/guru_de_decisoes_de_negocios.png" width="400">
+  <a href="https://github.com/LuizMGama/certificates/blob/main/certificado_bootcamp_ciencia_de_dados_tripleten.pdf">
+    <img src="https://img.shields.io/badge/📄_Certificado_Oficial_TripleTen-blue?style=for-the-badge" alt="Certificado TripleTen">
+  </a>
 </p>
 
 ## 📫 Let's Connect!  
